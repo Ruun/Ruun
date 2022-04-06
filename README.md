@@ -4,11 +4,11 @@
 **thisRuan/thisruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-##My name is "Ruan"
+### My name is "Ruan"
 Frontend web developer 
 what I know: HTML, CSS and JS
 
-###More on me:
+### More on me:
 - 🔭 I’m currently working on creating a messaging app (website).
 - 📳 currently learning some new languages like ( Python 🐍, Java ☕️, C++ and swift).
 - 🌱 I’m currently learning 👆👆👆👆👆👆👆👆👆👆👆👆.
