@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 ### About me;
-  Frontend web developer. I'm Ruan Ottawa, Canada, and I am a front end developer and designer. I enjoy learning new things (languages and frameworks) i also like ui, ux. you may have the best service (in term of a website of app) posible but if you have a bad ui/ux you may not get any client because of the bad UI and UX that the client see when using your site or app.
+  <br> I'm Ruan Ottawa, Canada, and I am a front end developer and designer. I enjoy learning new things (languages and frameworks) i also like ui, ux. you may have the best service (in term of a website of app) posible but if you have a bad ui/ux you may not get any client because of the bad UI and UX that the client see when using your site or app.
 
 What I know: HTML, CSS and JS
 
