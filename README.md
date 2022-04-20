@@ -21,6 +21,6 @@ You may have the best service (in terms of websites or apps) posible but if you 
 - 💬 Ask me about my work (mostly clones of some popular app home screen hopping to make a full clone one day).
 - 📫 How to reach me: via my instagram (https://www.instagram.com/thisruans/)
 - 😄 My fav sports are soccer ⚽️  and basketball 🏀 .
-- ⚡ Fun fact: Android is better than iOS but I own an iphone (*sarcasm*).
+- ⚡ Fun fact: Moons can have moons, and they are called "moonmoons.<br>
 Fin.
 <hr>
