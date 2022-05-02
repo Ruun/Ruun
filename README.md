@@ -20,7 +20,7 @@ You may have the best service (in terms of websites or apps) posible but if you 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffc02.deviantart.net%2Ffs70%2Ff%2F2010%2F346%2Ff%2Fd%2Frunning_animation_by_xxjillsandwhichxx-d34lwny.gif&f=1&nofb=1" alt="sonic running"><hr>
+<hr>
 
 ### More about me:
 - 🔭 I’m currently working on creating a messaging app (website).
