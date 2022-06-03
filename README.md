@@ -30,13 +30,13 @@ You may have the best service (in terms of websites or apps) posible but if you 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thisruan"><img src="https://github-readme-stats.vercel.app/api?username=thisruan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thisruan's GitHub stats" /></a>
+<a href="http://www.github.com/isruan"><img src="https://github-readme-stats.vercel.app/api?username=thisruan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thisruan's GitHub stats" /></a>
 <!--
-<a href="http://www.github.com/thisruan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisruan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
+<a href="http://www.github.com/isruan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisruan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
 
-<a href="http://www.github.com/thisruan"><img src="https://activity-graph.herokuapp.com/graph?username=thisruan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/isruan"><img src="https://activity-graph.herokuapp.com/graph?username=thisruan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <!--
-<a href="https://github.com/thisruan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisruan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+<a href="https://github.com/isruan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisruan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 <hr>
 
 ### More about me:
@@ -46,7 +46,7 @@ You may have the best service (in terms of websites or apps) posible but if you 
 - 👯 I’m looking to collaborate on web apps (mostly on the front-end part of them - ui/ux,messaging apps).
 - 🤔 I’m looking for help with github, git, mobile apps, PWA (progressive web apps) and server sides languages/projects.
 - 💬 Ask me about my work on github (which are mostly clones of some popular app home screen hopping to make a full clone one day).
-- 📫 How to reach me: via my instagram (https://www.instagram.com/thisruans/)
+- 📫 How to reach me: via my instagram (https://www.instagram.com/isruans/)
 - * ✉️  You can contact me at [emilsimo12@gmail.com](mailto:emilsimo12@gmail.com)
 - 😄 My fav sports are soccer ⚽️  and basketball 🏀 .
 - ⚡ Fun fact: Moons can have moons, and they are called "moonmoons".<br>
