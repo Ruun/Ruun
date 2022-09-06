@@ -47,7 +47,7 @@ You may have the best service (in terms of websites or apps) posible but if you 
 - 🤔 I’m looking for help with github, git, mobile apps, PWA (progressive web apps) and server sides languages/projects.
 - 💬 Ask me about my work on github (which are mostly clones of some popular app home screen hopping to make a full clone one day).
 - 📫 How to reach me: via my instagram (https://www.instagram.com/isruans/)
-- * ✉️  You can contact me at [emilsimo12@gmail.com](mailto:emilsimo12@gmail.com)
+- * ✉️  You can contact me at [info@isruan.com](mailto:info@isruan.com)
 - 😄 My fav sports are soccer ⚽️  and basketball 🏀 .
 - ⚡ Fun fact: Moons can have moons, and they are called "moonmoons".<br>
 Fin.
