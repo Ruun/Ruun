@@ -41,7 +41,7 @@ You may have the best service (in terms of websites or apps) posible but if you 
 
 ### More about me:
 - 🔭 I’m currently working on creating a messaging app (website).
-- 📳 currently learning some new languages like ( Python 🐍, Java ☕️, kotlin, nodejs, typescript, sass/scss 💁‍♀️, C++ and swift 🏃‍♂️)
+- 📳 currently learning some new languages like ( Python 🐍, Java ☕️, kotlin, nodejs, typescript, sass/scss 💁‍♀️, C++ & swift 🏃‍♂️)
 - 🌱 I’m currently learning 👆👆👆👆👆👆👆👆👆👆👆👆.
 - 👯 I’m looking to collaborate on web apps (mostly on the front-end part of them - ui/ux,messaging apps).
 - 🤔 I’m looking for help with github, git, mobile apps, PWA (progressive web apps) and server sides languages/projects.
