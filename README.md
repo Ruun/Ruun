@@ -23,20 +23,20 @@ You may have the best service (in terms of websites or apps) posible but if you 
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/isruan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/isruan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/isruav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/isruan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/ruun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/isruav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 <hr>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/isruan"><img src="https://github-readme-stats.vercel.app/api?username=isruan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thisruan's GitHub stats" /></a>
-<!--
-<a href="http://www.github.com/isruan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisruan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
-<!--
-<a href="http://www.github.com/isruan"><img src="https://activity-graph.herokuapp.com/graph?username=isruan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
-<!--
-<a href="https://github.com/isruan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisruan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+<a href="http://www.github.com/ruun"><img src="https://github-readme-stats.vercel.app/api?username=ruun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ruan's GitHub stats" /></a>
+
+<a href="http://www.github.com/ruun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ruun&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/ruun"><img src="https://activity-graph.herokuapp.com/graph?username=ruun&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/ruun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <hr>
 
 ### More about me:
