@@ -1,9 +1,4 @@
-<p align="center">
-  
-  ![pic](https://user-images.githubusercontent.com/76751124/212991606-44949a72-f344-45a5-a5d5-fcf3750e2612.png)
-  
-</p>
-
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 ### Hi there 👋 it is [Ruan](https://www.isruan.com/)
 
@@ -39,9 +34,9 @@ You may have the best service (in terms of websites or apps) posible but if you 
 <a href="http://www.github.com/ruun"><img src="https://github-readme-stats.vercel.app/api?username=ruun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ruan's GitHub stats" /></a>
 
 <a href="http://www.github.com/ruun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ruun&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<!--
 <a href="https://github.com/ruun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<hr>
+<hr> -->
 
 ### More about me:
 - 🔭 I’m currently working on creating a messaging app (website).
