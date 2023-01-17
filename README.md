@@ -4,9 +4,7 @@
   
 </p>
 
-<p align="center">
-  https://www.isruan.com
-</p>
+
 ### Hi there 👋 it is [Ruan](https://www.isruan.com/)
 
 <!--
