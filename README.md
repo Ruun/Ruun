@@ -8,9 +8,7 @@
 Here are some ideas to get you started:-->
 
 ### About me;
-  <br> I'm Ruan from Ottawa, Canada, and I am a software developer. I enjoy learning new things (languages and frameworks) I also like ui, ux.  
-  <br>
-You may have the best service (in terms of websites or apps) posible but if you have a bad ui/ux you may not get any client/users because of the bad UI and UX that the client see when using your site or app. Take myspace for example.
+     I’m Ruan, a software developer from Ottawa, Canada. I have a passion for coding and enjoy learning new languages and frameworks. I have a particular interest in UI/UX design and believe that good UI/UX is essential for the success of websites and apps.
 <hr>
 
 ### Skills
@@ -37,21 +35,17 @@ You may have the best service (in terms of websites or apps) posible but if you 
 <hr>
 
 ### More about me:
-- 🔭 I’m currently working on creating a messaging app (website).
-- 📳 currently learning some new languages like ( Python 🐍, Java ☕️, kotlin, nodejs, typescript, sass/scss 💁‍♀️, C++ & swift 🏃‍♂️)
-- 🌱 I’m currently learning 👆👆👆👆👆👆👆👆👆👆👆👆.
-- 👯 I’m looking to collaborate on web apps (mostly on the front-end part of them - ui/ux,messaging apps).
-- 🤔 I’m looking for help with github, git, mobile apps, PWA (progressive web apps) and server sides languages/projects.
-- 💬 Ask me about my work on github (which are mostly clones of some popular apps, hopping to make a full clone one day).
-- You can contact me at [info@isruan.com](mailto:info@isruan.com)
-- 😄 My fav sports are soccer ⚽️  and basketball 🏀 .
-- ⚡ Fun fact: Moons can have moons, and they are called "moonmoons".<br>
-Fin.
+- 📳 I am expanding my knowledge by learning new programming languages such as Python, Java, Kotlin, Node.js, TypeScript, Sass/SCSS, C++, and Swift.
+-  I am seeking collaboration opportunities on web app projects, particularly in the areas of UI/UX design and front-end development for messaging apps.
+- 🤔 I am actively seeking guidance and mentorship in the areas of GitHub, Git, mobile app development, progressive web apps (PWA), and server-side languages and projects.
+- 💬 Feel free to inquire about my work on GitHub, where I have created clones of popular apps with the goal of eventually developing a full clone.
+- 😄 In my free time, I enjoy playing soccer and basketball.
+- ⚡ Fun fact: Did you know that moons can have their own moons? These submoons are known as “moonmoons” <br>
 <hr>
 
-## Contact us - Socials
+## Contact ME - Socials
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/ruun) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/isruav) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruun) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://m.youtube.com/@ruav/videos) [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/isruav/) [<img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/ruun)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/ruun) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruun) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://m.youtube.com/@ruav/videos) [<img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/ruun)
 
 <p align="center"> © 2023 isRuan, all rights reserved. Made with ❤️ By Ruan. </p>
 <p align="center">
