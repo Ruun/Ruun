@@ -9,6 +9,7 @@ Here are some ideas to get you started:-->
 
 ### About me;
      I’m Ruan, a software developer from Ottawa, Canada. I have a passion for coding and enjoy learning new languages and frameworks. I have a particular interest in UI/UX design and believe that good UI/UX is essential for the success of websites and apps.
+     
 <hr>
 
 ### Skills
@@ -38,7 +39,6 @@ Here are some ideas to get you started:-->
 - 📳 I am expanding my knowledge by learning new programming languages such as Python, Java, Kotlin, Node.js, TypeScript, Sass/SCSS, C++, and Swift.
 -  I am seeking collaboration opportunities on web app projects, particularly in the areas of UI/UX design and front-end development for messaging apps.
 - 🤔 I am actively seeking guidance and mentorship in the areas of GitHub, Git, mobile app development, progressive web apps (PWA), and server-side languages and projects.
-- 💬 Feel free to inquire about my work on GitHub, where I have created clones of popular apps with the goal of eventually developing a full clone.
 - 😄 In my free time, I enjoy playing soccer and basketball.
 - ⚡ Fun fact: Did you know that moons can have their own moons? These submoons are known as “moonmoons” <br>
 <hr>
