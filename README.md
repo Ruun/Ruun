@@ -1,5 +1,3 @@
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
 ### Hi there 👋 it is [Ruan](https://www.isruan.com/)
 
 <!--
