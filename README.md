@@ -6,7 +6,8 @@
 Here are some ideas to get you started:-->
 
 ### About me;
-     I’m Ruan, a software developer from Ottawa, Canada. I have a passion for coding and enjoy learning new languages and frameworks. I have a particular interest in UI/UX design and believe that good UI/UX is essential for the success of websites and apps.
+I’m Ruan, a software developer from Ottawa, Canada. I have a passion for coding and enjoy learning new languages and frameworks. 
+I have a particular interest in UI/UX design and believe that good UI/UX is essential for the success of websites and apps.
      
 <hr>
 
