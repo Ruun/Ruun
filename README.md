@@ -36,7 +36,6 @@ I have a particular interest in UI/UX design and believe that good UI/UX is esse
 
 ### More about me:
 - 📳 I am expanding my knowledge by learning new programming languages such as Python, Java, Kotlin, Node.js, TypeScript, Sass/SCSS, C++, and Swift.
--  I am seeking collaboration opportunities on web app projects, particularly in the areas of UI/UX design and front-end development for messaging apps.
 - 🤔 I am actively seeking guidance and mentorship in the areas of GitHub, Git, mobile app development, progressive web apps (PWA), and server-side languages and projects.
 - 😄 In my free time, I enjoy playing soccer and basketball.
 - ⚡ Fun fact: Did you know that moons can have their own moons? These submoons are known as “moonmoons” <br>
