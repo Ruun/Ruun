@@ -33,14 +33,6 @@ I have a particular interest in UI/UX design and believe that good UI/UX is esse
 <a href="http://www.github.com/ruun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ruun&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <hr>
-
-### More about me:
-- 📳 I am expanding my knowledge by learning new programming languages such as Python, Java, Kotlin, Node.js, TypeScript, Sass/SCSS, C++, and Swift.
-- 🤔 I am actively seeking guidance and mentorship in the areas of GitHub, Git, mobile app development, progressive web apps (PWA), and server-side languages and projects.
-- 😄 In my free time, I enjoy playing soccer and basketball.
-- ⚡ Fun fact: Did you know that moons can have their own moons? These submoons are known as “moonmoons” <br>
-<hr>
-
 ## Contact ME - Socials
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/ruun) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruun) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://m.youtube.com/@ruav/videos) [<img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/ruun)
