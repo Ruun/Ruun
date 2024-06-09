@@ -6,8 +6,7 @@
 Here are some ideas to get you started:-->
 
 ### About me;
-I’m Ruan, a software developer from Canada. I have a passion for coding and enjoy learning new languages and frameworks. 
-I have a particular interest in UI/UX design and believe that good UI/UX is essential for the success of websites and apps.
+I'm Ruan, a computer engineering technology student from Canada with a passion for coding. I enjoy learning new languages and frameworks, and I have a strong interest in software development. I believe that well-designed software is essential for the success of any application.
 
 <hr>
 
