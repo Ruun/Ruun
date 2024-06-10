@@ -24,6 +24,7 @@ I'm Ruan, a computer engineering technology student from Canada with a passion f
 <img alt="Github" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <hr>
 
+
 ### Badges
 
 <b>My GitHub Stats</b>
