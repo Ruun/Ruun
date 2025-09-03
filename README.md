@@ -7,7 +7,7 @@
 Here are some ideas to get you started:-->
 
 ### About me;
-I'm Ruan, a computer engineering technology student from Canada with a passion for coding. I enjoy learning new languages and frameworks, and I have a strong interest in software development. I believe that well-designed software is essential for the success of any application.
+I'm Ruan, a computer science student from Canada with a passion for coding. I enjoy learning new languages and frameworks, and I have a strong interest in software development. I believe that well-designed software is essential for the success of any application.
 
 <hr>
 
